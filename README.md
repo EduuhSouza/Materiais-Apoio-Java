@@ -1,8 +1,6 @@
 # 📘 Materiais de Apoio - Java  
 
 Este repositório foi criado para reunir exemplos práticos e materiais de apoio em **Java**.  
-O objetivo é facilitar o aprendizado da linguagem, com exercícios e códigos comentados que vão do básico ao intermediário.  
-
 ---
 
 ## 📂 Conteúdos disponíveis  
