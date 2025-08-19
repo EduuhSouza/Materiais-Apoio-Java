@@ -34,7 +34,8 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 🔹 Exercícios práticos envolvendo:  
 - Cálculo do **IMC**  
 - Identificação de **números pares e ímpares**  
-- Geração de **tabuada**  
+- Geração de **tabuada**
+- Também tem alguns laços de repetição tipo o While e For
 
 📁 Arquivo: `Números e Cálculos Específicos`  
 
