@@ -10,6 +10,13 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 📁 Arquivo: `Package`  
 
 ---
+###  Laços de repetição (POO)
+🔹 Exercícios práticos envolvendo:  
+- While  
+- Switch Case
+
+📁 Arquivo: `Laços de repetição`  
+---
 
 ###  Cálculos Básicos  
 🔹 Exemplos de operações matemáticas simples:  
