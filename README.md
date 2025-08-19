@@ -26,7 +26,7 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 - Incremento  
 - Decremento  
 
-📁 Arquivo: `CalculosBasicos.java`  
+📁 Arquivo: `CalculosBasicos`  
 
 ---
 
@@ -36,6 +36,6 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 - Identificação de **números pares e ímpares**  
 - Geração de **tabuada**  
 
-📁 Arquivo: `NumerosEspecificos.java`  
+📁 Arquivo: `Números e Cálculos Específicos`  
 
 ---
