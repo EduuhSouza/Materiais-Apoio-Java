@@ -1,3 +1,4 @@
+import inimigos.*;
 import personagens.*;
 
 public class Main {
@@ -30,5 +31,34 @@ public class Main {
         personagemArcanista.exibirFichaArcanista();
         personagemLadino.exibirFichaLadino();
         personagemMago.exibirFichaMago();
+
+//       INIMIGOS
+        System.out.println("INIMIGOS");
+
+        Goblin fichaGoblin = new Goblin();
+        Humano fichaHumano = new Humano();
+        Lobo fichaLobo = new Lobo();
+        Orc fichaOrc = new Orc();
+        Slime fichaSlime = new Slime();
+
+        fichaGoblin.setNomeGoblin("Globi");
+        fichaGoblin.setArmaGoblin("Bastão");
+        fichaGoblin.exibaFichaGoblin();
+
+        fichaHumano.setNomeHumano("Wilso");
+        fichaHumano.setArmaHumano("Chinela");
+        fichaHumano.exibaFichaHumano();
+
+        fichaLobo.setNomeLobo("Lobo-Mal");
+        fichaLobo.setArmaLobo("Presas");
+        fichaLobo.exibaFichaLobo();
+
+        fichaSlime.setNomeSlime("Verdin");
+        fichaSlime.setArmaSlime("Tapa");
+        fichaSlime.exibaFichaSlime();
+
+        fichaOrc.setNomeOrc("Gumba");
+        fichaOrc.setArmaOrc("Machado");
+        fichaOrc.exibaFichaOrc();
     }
 }
