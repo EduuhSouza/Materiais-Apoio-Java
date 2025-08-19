@@ -1,16 +1,37 @@
-# Materiais-Apoio-Java
+# 📘 Materiais de Apoio - Java  
 
-> <h1>Repositório destinado para materiais de apoio Java </h1>
+Este repositório foi criado para reunir exemplos práticos e materiais de apoio em **Java**.  
+O objetivo é facilitar o aprendizado da linguagem, com exercícios e códigos comentados que vão do básico ao intermediário.  
 
-- <h2>Java Package: como puxar uma classe de um package para a MAIN principal</h2>
-| Nome arquivo: Package
+---
 
-------------------------
-- <h2>Java Cáculos básicos : Multiplicação, divisão, incrementar e decrementar </h2>
-| Nome arquivo: ...
+## 📂 Conteúdos disponíveis  
 
-------------------------
-- <h2>Java Números e Cálculos mais especificos : calculo de IMC, números pares e impares, tabuada </h2>
-| Nome arquivo: ...
+### 1️⃣ Pacotes em Java (Packages)  
+🔹 Como organizar o código em pacotes.  
+🔹 Como **importar** uma ou mais classes de um package para a `Main`.  
 
+📁 Arquivo: `Package`  
 
+---
+
+### 2️⃣ Cálculos Básicos  
+🔹 Exemplos de operações matemáticas simples:  
+- Multiplicação  
+- Divisão  
+- Incremento  
+- Decremento  
+
+📁 Arquivo: `CalculosBasicos.java`  
+
+---
+
+### 3️⃣ Números e Cálculos Específicos  
+🔹 Exercícios práticos envolvendo:  
+- Cálculo do **IMC**  
+- Identificação de **números pares e ímpares**  
+- Geração de **tabuada**  
+
+📁 Arquivo: `NumerosEspecificos.java`  
+
+---
