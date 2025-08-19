@@ -3,9 +3,7 @@
 Este repositório foi criado para reunir exemplos práticos e materiais de apoio em **Java**.  
 ---
 
-## 📂 Conteúdos disponíveis  
-
-### 1️⃣ Pacotes em Java (Packages)  
+###  Pacotes em Java (Packages)  
 🔹 Como organizar o código em pacotes.  
 🔹 Como **importar** uma ou mais classes de um package para a `Main`.  
 
@@ -13,7 +11,7 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 
 ---
 
-### 2️⃣ Cálculos Básicos  
+###  Cálculos Básicos  
 🔹 Exemplos de operações matemáticas simples:  
 - Multiplicação  
 - Divisão  
@@ -24,7 +22,7 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 
 ---
 
-### 3️⃣ Números e Cálculos Específicos  
+###  Números e Cálculos Específicos  
 🔹 Exercícios práticos envolvendo:  
 - Cálculo do **IMC**  
 - Identificação de **números pares e ímpares**  
