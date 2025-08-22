@@ -40,3 +40,12 @@ Este repositório foi criado para reunir exemplos práticos e materiais de apoio
 📁 Arquivo: `Números e Cálculos Específicos`  
 
 ---
+
+
+###  Herança e Polimorfismo 
+🔹 Exercícios práticos envolvendo:  
+- Herança usando o Extends
+- Polimorfismo 
+
+📁 Arquivo: `Herança e Polimorfismo`  
+
