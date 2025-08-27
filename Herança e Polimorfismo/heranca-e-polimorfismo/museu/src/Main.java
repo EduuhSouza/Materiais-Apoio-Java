@@ -40,7 +40,7 @@ public class Main {
                     visitante.explorarSala(sala3);
                     break;
                 case 0:
-                    System.out.println("\nObrigado pela visita, " + visitante.getNome() + "! Volte sempre");
+                    System.out.println("\nObrigado pela visita, " + nome + "! Volte sempre");
                     break;
                 default:
                     System.out.println("Opção inválida! Tente novamente.");
