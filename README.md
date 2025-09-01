@@ -42,7 +42,7 @@ Herança permite que uma classe herde atributos e métodos de outra, promovendo 
 **Exemplo:**  
 A classe `Funcionario` herda da classe `Pessoa`. Isso significa que `Funcionario` recebe os atributos e métodos de `Pessoa`, além de poder definir seus próprios.
 
-📁 Arquivo: - [Acesse aqui]()
+📁 Arquivo: - [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/Pilares%20POO/pilares-poo/src/heranca)
 
 ---
 
@@ -54,10 +54,14 @@ Polimorfismo permite que o mesmo método tenha comportamentos diferentes, depend
 **Exemplo:**  
 O método `falar()` pode ter diferentes implementações em classes como `Cachorro` (latir) e `Gato` (miar).
 
-📁 Arquivo:  [Acesse aqui]()
+📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/Pilares%20POO/pilares-poo/src/polimorfismo)
 
 ---
 
+Classe main dos Pilares da Programação Orientada a Objetos
+📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/blob/main/Pilares%20POO/pilares-poo/src/Main.java)
+
+---
 > Anotações de Classes
 
 - `abstract`: usada para ocultar detalhes de implementação e expor apenas funcionalidades essenciais.
