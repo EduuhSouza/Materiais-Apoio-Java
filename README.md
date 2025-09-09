@@ -111,11 +111,19 @@ Classe main dos Pilares da Programação Orientada a Objetos
 
 ---
 
-
 ###  Herança e Polimorfismo 
 🔹 Exercícios práticos envolvendo:  
 - Herança usando o Extends
 - Polimorfismo 
 
 📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/Heran%C3%A7a%20e%20Polimorfismo/heranca-e-polimorfismo/src)  
+
+---
+
+###  ArrayList 
+🔹 Exercícios práticos envolvendo:  
+- Criando a primeira lista
+- Sobreescrevendo o ToString 
+
+📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
 
