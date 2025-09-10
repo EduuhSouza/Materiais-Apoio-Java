@@ -158,7 +158,7 @@ Classe main dos Pilares da Programação Orientada a Objetos
 ```java
 for (int i = 0; i < livros.toArray().length; i++){
     System.out.println(livros.get(i));
-}
+}```
 
 
 📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
