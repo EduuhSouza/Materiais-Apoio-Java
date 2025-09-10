@@ -143,6 +143,7 @@ Classe main dos Pilares da Programação Orientada a Objetos
  -  float       ->    Float
  -    double      ->    Double
  -   char        ->    Character
+
  A wrapper class é uma forma de representar um tipo primitivo na forma de objeto: classe em forma de objeto!!
 
 📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
