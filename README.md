@@ -125,6 +125,7 @@ Classe main dos Pilares da Programação Orientada a Objetos
 - Criando a primeira lista
 - Sobreescrevendo o ToString
 
+📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
  ---
 
 > **COMANDOS ARRAYLIST**
@@ -158,8 +159,6 @@ Classe main dos Pilares da Programação Orientada a Objetos
 ```java
 for (int i = 0; i < livros.toArray().length; i++){
     System.out.println(livros.get(i));
-}```
+}
 
-
-📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
 
