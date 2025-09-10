@@ -126,6 +126,7 @@ Classe main dos Pilares da Programação Orientada a Objetos
 - Sobreescrevendo o ToString
 
 📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
+
  ---
 
 > **COMANDOS ARRAYLIST**
