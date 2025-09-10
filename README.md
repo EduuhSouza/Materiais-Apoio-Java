@@ -126,7 +126,6 @@ Classe main dos Pilares da Programação Orientada a Objetos
 - Sobreescrevendo o ToString
 
  ---
-# Comandos ArrayList
 
 > **COMANDOS ARRAYLIST**
 
