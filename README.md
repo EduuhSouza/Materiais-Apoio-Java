@@ -157,9 +157,15 @@ Classe main dos Pilares da Programação Orientada a Objetos
 
 > **Printar todos os itens da lista com o get()**
 
-```java
+```java 
 for (int i = 0; i < livros.toArray().length; i++){
     System.out.println(livros.get(i));
 }
+
+// outra forma de printar usando somente o array dinamico
+  for (int i = 0; i < livros.size(); i++) {
+            System.out.println(livros.get(i));
+        }
+```
 
 
