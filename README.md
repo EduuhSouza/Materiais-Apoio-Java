@@ -123,7 +123,27 @@ Classe main dos Pilares da Programação Orientada a Objetos
 ###  ArrayList 
 🔹 Exercícios práticos envolvendo:  
 - Criando a primeira lista
-- Sobreescrevendo o ToString 
+- Sobreescrevendo o ToString
+
+ ---
+> COMANDOS ARRAYLIST
+- nomeVarObj.add(item) -> adiciona item na lista
+- nomeVarObj.remove(item) -> remove item
+- nomeVarObj.size() ->  Monstra quantos itens tem na lista
+- nomeVarObj.get(numero que deseja pegar) -> pega um elemento especifico da lista, lembrando que o 0 é o primeiro item
+- nomeVarObj.clear() -> Limpa a lista
+- Collections.sort(nome da lista) -> ordenar / ordem crescente
+- Collections.sort(nomeLista, Collections.reverseOrder() -> ordem decrescente
+
+- String[] -> Array Fixo
+- new ArrayList<>() = Array dinamico
+
+> Tipos primitivos   Wrapper Class
+    int         ->    Integer
+    float       ->    Float
+    double      ->    Double
+    char        ->    Character
+ A wrapper class é uma forma de representar um tipo primitivo na forma de objeto: classe em forma de objeto!!
 
 📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
 
