@@ -9,6 +9,8 @@ public class Aluno {
 
     @Override
     public String toString() {
-        return "Aluno: " + nome + " Nota: " + nota;
+        return "Nome: " + nome + " - " +
+                " nota= " + nota
+                ;
     }
 }
