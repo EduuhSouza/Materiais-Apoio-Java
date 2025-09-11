@@ -163,9 +163,9 @@ for (int i = 0; i < livros.toArray().length; i++){
 }
 
 // outra forma de printar usando somente o array dinamico
-  for (int i = 0; i < livros.size(); i++) {
-            System.out.println(livros.get(i));
-        }
+  for(Produto p : produtos){
+          System.out.println(p);
+}
 ```
 
 
