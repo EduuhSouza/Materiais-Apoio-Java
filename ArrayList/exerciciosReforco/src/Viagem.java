@@ -6,4 +6,10 @@ public class Viagem {
         this.destino = destino;
         this.duracaoDias = duracaoDias;
     }
+
+    @Override
+    public String toString() {
+        return "Destino: " + destino +
+                " - duracao em Dias: " + duracaoDias;
+    }
 }

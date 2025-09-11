@@ -1,6 +1,6 @@
 public class Produto {
-    public String nome;
-    public double preco;
+    String nome;
+    double preco;
 
     public Produto(String nome, double preco) {
         this.nome = nome;
@@ -9,6 +9,6 @@ public class Produto {
 
     @Override
     public String toString() {
-        return nome + " - R$ " + preco;
+        return "Produto: " + nome + "\nPreço: " + preco;
     }
 }
