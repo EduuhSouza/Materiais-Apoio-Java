@@ -10,7 +10,6 @@ A Programação Orientada a Objetos é baseada em quatro pilares principais. Aba
 ### 🔹 1. Abstração
 
 **Definição:**  
-**Definição:**  
 Abstração é o processo de modelar objetos do mundo real em classes, focando apenas nos comportamentos e características essenciais, ocultando detalhes desnecessários.
 
 **Exemplo:**  
