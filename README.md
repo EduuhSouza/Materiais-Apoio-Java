@@ -126,7 +126,7 @@ Classe main dos Pilares da Programação Orientada a Objetos
 - Organizando listas (Crescente e decrescente)
 - Utilizando itens de classes na lista
 
-📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList/exercicioAlura/src)  
+📁 Arquivo:  [Acesse aqui](https://github.com/EduuhSouza/Materiais-Apoio-Java/tree/main/ArrayList)  
 
  ---
 
